@@ -47,7 +47,7 @@ network, ensuring smooth storage, retrieval, and manipulation of vital informati
 
   <h2>📫 Let's connect:</h2>
   <ul>
-    <li>LinkedIn: <a href="[[Your LinkedIn Profile URL](https://leetcode.com/vansh_2002/)]">vansh-gupta-969288202</a></li>
+    <li>LinkedIn: <a href="[[https://www.linkedin.com/in/vansh-gupta-969288202/]]">vansh-gupta-969288202</a></li>
     <li>Email: <a href="mailto:[vanshgupta9318@gmail.com]">[vanshgupta9318@gmail.com]</a></li>
     
   </ul>
